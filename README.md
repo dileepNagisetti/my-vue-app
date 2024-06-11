@@ -1,4 +1,4 @@
-# my-vue-app
+# punch-game
 
 ## Project setup
 ```
